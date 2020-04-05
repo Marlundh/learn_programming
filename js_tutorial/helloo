@@ -1,0 +1,3 @@
+#!/Users/matlju/.n/bin/node
+
+console.log("Hello, world!", "how's it going?");
