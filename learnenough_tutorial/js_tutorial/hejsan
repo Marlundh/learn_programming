@@ -1,3 +1,3 @@
-#!/Users/matlju/.n/bin/node
+#!/Users/maria/.n/bin/node
 
 console.log("Hello, world!", "how's it going?");
